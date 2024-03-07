@@ -50,7 +50,8 @@ way for reasonable people to login to services on the internet.
 It may be tempting to use one password and email for everything. I used
 to do that until my Facebook was hacked and I was embarrased in front of
 all my friends. I also had to manually change my password across near
-100 accounts because I used similar credentials almost everywhere.
+100 accounts because I used similar credentials almost everywhere. In
+a worse world that could have been my bank account.
 
 If we just use one email address and one password everywhere to save initial
 brainpower then we may find ourselves on the news in a data breach. The
