@@ -22,7 +22,7 @@ to use the internet then you should read this book.
 ## Think like a Raven
 Ravens have pretty good lives for birds. They're flexible in their food
 sources. They find food enough in their woods for them and their kin.
-They're fun enough to play tricks on other animals.
+They're clever and fun enough to play tricks on other animals.
 
 Cooperatively they work with otherwise vicious animals by leading with
 value. What wolf doesn't value a scout?
