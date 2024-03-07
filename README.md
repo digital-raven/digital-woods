@@ -43,25 +43,60 @@ is required to maintain this mindset to create an uncompromising experience.
 You're skilled enough to meaningfully understand the internet and travel it
 with self-respect. It's easy so let's begin.
 
-## Email and passwords
+## Strong email and passwords
 The opening chapter concerns email because email remains the most consistent
-way for reasonable people to login on the internet. When the chips are down,
-send an email.
+way for reasonable people to login to services on the internet.
 
-But if we just use one email address and one password everywhere to save
+It may be tempting to use one password and email for everything. I used
+to do that until my Facebook was hacked and I was embarrased in front of
+all my friends. I also had to manually change my password across near
+100 accounts because I used similar credentials almost everywhere.
+
+If we just use one email address and one password everywhere to save initial
 brainpower then we may find ourselves on the news in a data breach. The
 initial inconvenience of organizing credentials is *much* more worthwhile
 than calling a legal firm over identity theft.
 
-Our goal is to minimize the number of credentials you need to maintain. We
-will perform this by leveraging only a few email accounts and one password
-manager.
+Our goal is to create an organization where all of our login credentials
+are recoverable in one private place. A Raven has several requirements
+for their email providers.
+- Secure and reliable. It must be up near-constantly and viewed as impervious
+  to criminal attack. We will only be viewed as victims if our provider
+  is an outright liar.
+- Privacy focused. We should be able to create an account without them
+  knowing anything about us other than our humanity.
+- It must have intuitive folder and organization structure.
+- 2FA must be an **option**.
 
+We will create 2 or 
 - Core email: This is your main email you will use to gather all service
   providers under one roof. This must be a standalone email account.
-- Backup email: You never tell anyone this. Emergency recovery goes here.
+- Emergency email: This is the email account of last resort for naked recovery.
+  This will allow you to lose everything you own and still get back online.
 - Personal email: Use this as a contact for your government issued identity.
   Ravens don't play stupid games with people who point guns at us.
 
+We will also need to memorize the passwords for our core and emergency email.
+These can be the same password since the emergency email will forever remain
+a secret, no attacker should ever be able to link it to passwords
+
+## Unconventional password security
+Password security is easy.
+- M
+- Never change them unless required.
+
+Changing 
+
 ### Provider
-There are many competant providers of email. For your personal
+There are many competant providers of email, but a Raven only needs one. Let's
+choose the best one.
+
+The email I trust the most is ProtonMail.
+- You can make an account there without telling them your name or setting up 2FA.
+  This makes them the easiest to set up.
+- You can access them with any popular web-browser.
+- 
+  
+easiest to set up. This will serve us well.
+
+Use ProtonMail for your Core email. 
