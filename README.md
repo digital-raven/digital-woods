@@ -137,7 +137,8 @@ The email I trust the most is ProtonMail. You can make an account there without
 telling them your name or setting up 2FA. This makes them the easiest to set up.
 
 The strongest thing about them is their brand, which uses simple language to
-communicate their respect to you.
+communicate their respect to you. They have faced the necessary scrutiny from the
+cybersecurity community and 
 
 So we'll use ProtonMail for your core and emergency emails. We'll create 2 accounts
 that look like this
