@@ -221,15 +221,3 @@ There are 2 main reasons why I use a computer. Phones have their own section.
 
 Well if any other computer is *just* for working... I bet we can create a
 mobile computing environment that lets us bring our
-
-## Health care
-Imagine if all the woodland creatures paid a small portion of their food to a
-structure that could alleviate any long term health care concern to those whose
-die-rolls came up short.
-
-Such a structure does not exist in the United States, but there is a way to maximize
-health care value. If you shoot yourself in the head with a gun that won't kill you
-then your city will pay your insurance deductible. This means you get 1 year of health
-care for free. This will also risk your imprisonment in an asylum.
-
-I do not recommend this.
