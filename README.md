@@ -53,14 +53,14 @@ people were astounded by what I believed were simple tricks.
 - `docker` lets me have a personal development environment that I can bootstrap on
   any machine in the world starting from nothing other than an email account.
 - Emulators let me and my friends play classic video games over the internet. These
-  games
+  games did not originally ship with this capability.
 - `syncthing` lets me move music into a folder that instantly shows up on my phone.
 - `discord` allows my friends and I to effortlessly socialize while we play any game.
 
-And the way I use my computer lets me instantly get these programs for free, instantly,
-and with no account, in a moral and legally clean way. Each of these is created by
-communities of real people, and if they ever break our trust then we can choose to
-simply not accept their new versions while we seek a replacement.
+And the way I use my computer lets me legally and instantly get these programs
+for free with no account. Each of these is created by communities of real people,
+and if they ever break our trust then we can choose to simply not accept their new
+versions while we seek a replacement.
 
 No tool or servant of a raven is above replacement.
 
