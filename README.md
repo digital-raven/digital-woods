@@ -70,9 +70,9 @@ cabinets that talk to each other. Each computer is just a filing cabinet
 with folders in it, and little bots run around and organize the folders.
 
 The internet is just the infrastructure to allow these filing cabinets to
-talk to each other. There is nothing **special** about the internet to
-anyone. The internet *itself* treats all equally. That isn't true for
-everyone but we will make it true for ourselves.
+talk to each other; no different than a sidewalk or road. There is nothing
+**special** about the internet to anyone. The internet *itself* treats all
+equally. That isn't true for everyone but we will make it true for ourselves.
 
 There are some files we should manage, but sometimes we should trust others.
 If the problem is better solved long-term by doing it ourself, then we will
@@ -104,9 +104,9 @@ initial inconvenience of organizing credentials is *much* more worthwhile
 than calling a legal firm over identity theft. This means Target could
 compromise our *whole life* if we presented ourselves in this way.
 
-The solution is to give a unique email and password to each and every person
-we do business with, but memorizing these is hard. If we try that then we'll
-screw ourselves. Since computers are the worlds greatest filing cabinets we can
+The solution is to give a unique email and password to each provider we do
+business with, but memorizing these is hard. If we try that then we'll screw
+ourselves. Since computers are the worlds greatest filing cabinets we can
 use them to create an organization that handles that for us.
 
 Fortunately we can solve this problem using only one email provider and a
