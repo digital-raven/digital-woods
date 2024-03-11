@@ -1,5 +1,7 @@
 # A Raven's Guide through the Digital Woods
 
+![](cover.png)
+
 The woods are only scary until you learn to find food. Then it becomes home.
 
 ## Forward
